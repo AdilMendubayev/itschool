@@ -1,11 +1,8 @@
-package enums;
-
 import java.util.Scanner;
 
-import enums.car.BigCar;
-import enums.car.Car;
-import enums.car.MediumCar;
-import enums.car.SmallCar;
+import car.MediumCar;
+import car.SmallCar;
+import car.BigCar;
 import spec.CargoSizeSpec;
 
 public class Main {
